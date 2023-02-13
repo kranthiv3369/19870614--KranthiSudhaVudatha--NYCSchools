@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">20230212-Kranthi-NYCSchools</string>
+    <string name="txt_school_list">NYCSchool List</string>
+    <string name="txt_schools_found">No Schools found</string>
+    <string name="txt_schools_name">School Name</string>
+    <string name="txt_schools_details">School Details</string>
+   <string name="txt_num_sat_takers">Number SAT test takers: </string>
+    <string name="txt_sat_math_avg_score">SAT Math Avg Score: </string>
+    <string name="txt_sat_reading_avg_score">SAT reading Avg Score: </string>
+    <string name="txt_sat_writing_avg_score">SAT writing Avg Score: </string>
+    <string name="txt_school_name_details">School Name: </string>
+    <string name="txt_school_email">School Email: </string>
+
+
+</resources>
